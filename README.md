@@ -1,10 +1,10 @@
-### Hey! Leo here👋
+### Hey! Leo here
 
 - 🔭 I’m currently working on Product Cost Analyst
 - 🌱 I’m currently learning Java
 - ⏳ English Loading
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: FF XII player here
+- 🥁 Fun fact: Drummer
 
 <div align="center">
   <a href="https://github.com/Leonardo-Campos">
