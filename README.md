@@ -1,6 +1,6 @@
 ### Hey! Leo here
 
-- 🔭 I’m currently as Backend software developer
+- 🔭 I’m currently working as Backend software developer
 - 🌱 I’m currently learning Java
 - ⏳ English Loading
 - 😄 Pronouns: He/him
