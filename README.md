@@ -25,5 +25,3 @@
   
   ##
 
- ![Snake animation](https://github.com/Leonardo-Campos/Leonardo-Campos/blob/output/github-contribution-grid-snake.svg)
-
