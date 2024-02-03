@@ -1,7 +1,7 @@
 ### Hey! Leo here
 
 - 🔭 I’m currently working as Fullstack software developer
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Angular + TypeScript
 - ⏳ English Loading
 - 😄 Pronouns: He/him
 - 🥁 Fun fact: Drummer
